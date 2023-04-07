@@ -1,0 +1,22 @@
+/*sélécteur {
+	propriété:	valeur;
+}*/
+/* paletton.com */
+
+
+body {
+background-image: 
+url("/Documents/Programmation/HTML/grattedos/img/fond.webp");
+}
+
+p {
+	color: #FFE31E;
+}
+
+h2 {
+	color: white;
+}
+
+a {
+	color: red;
+}
